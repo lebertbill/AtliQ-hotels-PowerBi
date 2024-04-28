@@ -13,7 +13,7 @@ Your objectives include:
 
 ## Mock dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/lebertbill/Hospitality-Analysis_PowerBi/blob/main/images/mock%20up%20dashboard.png" width="600">
 </p>
 
 ## Overall
